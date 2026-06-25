@@ -1,0 +1,23 @@
+{
+  "Australia": { "name": "Australia (Melbourne)", "length": 5303, "turns": [], "rotation": 45, "flip_x": false, "flip_z": true },
+  "Bahrain": { "name": "Bahrain (Sakhir)", "length": 5412, "turns": [], "rotation": 92, "flip_x": false, "flip_z": true },
+  "China": { "name": "China (Shanghai)", "length": 5451, "turns": [], "rotation": -123, "flip_x": false, "flip_z": true },
+  "Azerbaijan": { "name": "Azerbaijan (Baku)", "length": 6003, "turns": [], "rotation": -22, "flip_x": false, "flip_z": true },
+  "Spain": { "name": "Spain (Catalunya)", "length": 4655, "turns": [], "rotation": -57, "flip_x": false, "flip_z": true },
+  "Monaco": { "name": "Monaco", "length": 3337, "turns": [], "rotation": 0, "flip_x": false, "flip_z": true },
+  "Canada": { "name": "Canada (Montreal)", "length": 4361, "turns": [], "rotation": -95, "flip_x": false, "flip_z": true },
+  "France": { "name": "France (Paul Ricard)", "length": 5842, "turns": [], "rotation": 19, "flip_x": false, "flip_z": true },
+  "Austria": { "name": "Austria (Spielberg)", "length": 4318, "turns": [], "rotation": 0, "flip_x": false, "flip_z": true },
+  "Great Britain": { "name": "Great Britain (Silverstone)", "length": 5891, "turns": [], "rotation": 90, "flip_x": false, "flip_z": true  },
+  "Germany": { "name": "Germany (Hockenheim)", "length": 4574, "turns": [], "rotation": -33, "flip_x": false, "flip_z": true },
+  "Hungary": { "name": "Hungary (Hungaroring)", "length": 4381, "turns": [], "rotation": -50, "flip_x": false, "flip_z": true },
+  "Belgium": { "name": "Belgium (Spa)", "length": 7004, "turns": [], "rotation": 90, "flip_x": false, "flip_z": true },
+  "Italy": { "name": "Italy (Monza)", "length": 5793, "turns": [], "rotation": 95, "flip_x": false, "flip_z": true },
+  "Singapore": { "name": "Singapore (Marina Bay)", "length": 5063, "turns": [], "rotation": 0, "flip_x": false, "flip_z": true },
+  "Russia": { "name": "Russia (Sochi)", "length": 5848, "turns": [], "rotation": -30, "flip_x": false, "flip_z": true },
+  "Japan": { "name": "Japan (Suzuka)", "length": 5807, "turns": [], "rotation": 0, "flip_x": false, "flip_z": true },
+  "USA": { "name": "EEUU (Austin)", "length": 5513, "turns": [], "rotation": 0, "flip_x": false, "flip_z": true },
+  "Mexico": { "name": "Mexico (Hermanos Rodríguez)", "length": 4304, "turns": [], "rotation": 8, "flip_x": false, "flip_z": true },
+  "Brazil": { "name": "Brazil (Interlagos)", "length": 4309, "turns": [], "rotation": 0, "flip_x": false, "flip_z": true },
+  "Abu Dhabi": { "name": "Abu Dhabi (Yas Marina)", "length": 5554, "turns": [], "rotation": -30, "flip_x": false, "flip_z": true }
+}

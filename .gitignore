@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+build/
+dist/
+
+.DS_Store
+Thumbs.db
+
+*.csv
+
+!data/tracks/*.csv
+!data/tracks/*.json

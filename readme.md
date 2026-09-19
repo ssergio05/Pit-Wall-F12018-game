@@ -25,21 +25,20 @@ The application is built on a custom lightweight architecture avoiding heavy gam
 
 ## 🚀 Installation & Usage
 
-1. **Clone the repository:**
+1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/pit-wall-os.git](https://github.com/YourUsername/pit-wall-os.git)
-   cd pit-wall-os
+   git clone https://github.com/ssergio05/Pit-Wall-F12018-game.git
+   cd Pit-Wall-F12018-game
    ```
 
-2. **Install dependencies:**
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Configure the Game:**
-   Go to your F1 game settings -> Telemetry Settings. Enable UDP Telemetry and set the port to `20777` (default).
+3. Configure the Game: Go to your F1 game settings -> Telemetry Settings. Enable UDP Telemetry and set the port to `20777` (default).
 
-4. **Run the Dashboard:**
+4. Run the Dashboard:
    ```bash
    python main.py
    ```
